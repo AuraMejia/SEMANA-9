@@ -1,0 +1,8 @@
+Flujo del sistema "Petición en 3 Clics"
+
+1. El ciudadano ingresa a la plataforma y crea una nueva petición completando un formulario.
+2. El sistema valida la información y registra la petición en la base de datos.
+3. La petición se publica para que otros ciudadanos puedan consultarla y apoyarla.
+4. Cada apoyo ciudadano queda registrado y el sistema actualiza automáticamente el número de firmas.
+5. Cuando la petición alcanza los apoyos necesarios, el sistema genera un documento PDF con la información recopilada para su presentación ante la entidad correspondiente.
+6. El sistema envía una notificación a los administradores y al creador de la petición informando que el proceso ha finalizado.
